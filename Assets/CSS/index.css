@@ -58,7 +58,7 @@
   }
 
   .picture img:hover{
-    box-shadow: 5px 5px  5px black ;
+    box-shadow: 10px 10px  10px black ;
 }
 
   
@@ -112,12 +112,12 @@
   .right-image1 .picture {
     position: relative;
     text-align: center;
-    box-shadow: 10px 10px  10px rgb(78, 39, 39) ;
+    box-shadow: 5px 5px  5px rgb(78, 39, 39) ;
   }
   .right-image1 .picture img {
     width: 100%;
     overflow: hidden;
-    box-shadow: 10px 10px  10px rgb(78, 39, 39) ;
+    box-shadow: 10px 10px  10px rgb(112, 111, 111);
   }
   .right-image1 .picture .discription {
     position: absolute;
@@ -247,7 +247,7 @@
     background-color: #fff;
   }
   .cards:hover{
-    box-shadow: 5px  5px  5px 5px rgb(97, 95, 95) ;
+    box-shadow: 5px  5px  5px 5px rgb(124, 4, 4) ;
 }
 
   #women .cards .down-content h4 {
